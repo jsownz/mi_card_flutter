@@ -1,0 +1,4 @@
+#Tue Dec 07 22:16:40 PST 2021
+base.0=C\:\\Users\\jason\\OneDrive\\Documents\\GitHub\\mi_card_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
